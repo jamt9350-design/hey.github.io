@@ -1,0 +1,5 @@
+{
+  "name": "The Definitive AI Assistant",
+  "description": "A state-of-the-art AI assistant web application with a three-panel layout featuring a chat interface, a multi-tab code editor with stateful undo/redo, and deep customization. It provides a gold standard for user interaction and developer tooling.",
+  "requestFramePermissions": []
+}
